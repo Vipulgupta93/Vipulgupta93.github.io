@@ -5,13 +5,13 @@
      {
        "appID":"E5R2JZ6U5K.world.tally.TWTallySCPNative",
        "paths":[
-          "*"
+          "/native/*"
         ]
      },
      {
        "appID":"E5R2JZ6U5K.world.tally.TWTallySCPQt",
        "paths":[
-          "*"
+          "/qt/*"
         ]
      }
    ]
