@@ -2,7 +2,7 @@
 "applinks":{
      "details":[
         {
-           "appIDs": ["E5R2JZ6U5K.world.tally.TWTallySCPNative"],
+           "appIDs": ["E5R2JZ6U5K.world.tally.TWTallyNative"],
            "components":[
                 {
                     "/": "/native/*"
@@ -10,10 +10,10 @@
             ]
         },
         {
-          "appIDs": ["E5R2JZ6U5K.world.tally.TWTallySCPQt"],
+          "appIDs": ["E5R2JZ6U5K.world.tally.TWTallyClientNative"],
           "components": [
               {
-                    "/": "/qt/*"
+                    "/": "/clientnative/*"
                 },
            ]
          }
